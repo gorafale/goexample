@@ -34,7 +34,7 @@ func init() {
 
 /*
 Run Program
-go run hi.go
+go run main.go
 Define Before Main Function - 1
 Define Before Main Function - 2
 Define After Main Function - 1
